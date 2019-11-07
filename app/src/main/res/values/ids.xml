@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="M3_4" type="id" />
+    <item name="M1_2" type="id" />
+    <item name="M5_6" type="id" />
+    <item name="M7_8" type="id" />
+    <item name="M9_10" type="id" />
+    <item name="M11_12" type="id" />
+    <item name="Ans_button_B" type="id" />
+    <item name="Back_button_B" type="id" />
+    <item name="N_1" type="id" />
+</resources>
